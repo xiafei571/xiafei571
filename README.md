@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xiafei571
-- 👀 I’m interested in programming
+- 👀 I’m interested in ~~mountain climbing, badminton, YouTube, Netflix, video games~~ programming
 - 🌱 I’m currently learning Cloud technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (https://www.linkedin.com/in/xiafei571/)
